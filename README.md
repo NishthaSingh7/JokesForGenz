@@ -3,6 +3,9 @@
 ## Project name
 Snackable Jokes (JokesForGenz)
 
+## Year
+2025
+
 ## Purpose
 A fun Gen-Z humor project that serves short, snackable jokes about life, coding, relationships, and more.
 
